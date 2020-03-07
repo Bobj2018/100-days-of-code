@@ -18,7 +18,7 @@ You can follow my progress through the challenge:
 * [Journal](journal)
 * [Twitter](https://twitter.com/bobj2018)
 * [LinkedIn](https://www.linkedin.com/in/joshua-rieth/)
-* [TikTok](https://www.vm.tiktok.com/ggasE4)
+* [TikTok](https://www.tiktok.com/@bobj2018)
 
 ## Resources
 
