@@ -27,4 +27,4 @@ To learn more about the 100 Days of Code challenge:
 * [Essential Guide to the 100 Days of Code Challenge](https://dev.to/softwaredotcom/essential-guide-to-the-100-days-of-code-challenge-3b5g)
 
 ## Accepted the Challenge
-*[Notesong](https://github.com/users/Notesong/projects/2)
+* [Notesong](https://github.com/users/Notesong/projects/2)
