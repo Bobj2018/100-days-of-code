@@ -10,19 +10,15 @@
 
 A few projects that I have completed during the challenge:
 
-* [Project 1](#projects)
-* [Project 2](#projects)
-* [Project 3](#projects)
-* ...
 
 ## Journal
 
 You can follow my progress through the challenge: 
 
 * [Journal](journal)
-* [Blog](#journal)
-* [Twitter](#journal)
-* ...
+* [Twitter](https://twitter.com/bobj2018)
+* [LinkedIn](https://www.linkedin.com/in/joshua-rieth/)
+* [TikTok](https://www.vm.tiktok.com/ggasE4)
 
 ## Resources
 
