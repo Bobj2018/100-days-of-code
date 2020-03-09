@@ -1,21 +1,24 @@
 # Round 1 Log
 
-**Start date**: XX/XX/XX
+**Start date**: 03/08/20
 
-**End date**: XX/XX/XX
+**End date**: 06/16/20
 
 ## Goals
 
-* Goal 1
-* Goal 2
-* Goal 3
-* ...
+- Rewrite all my old code using ReactJS as the framework.
 
 ## Day 1
 
-* Project you are working on (including link)
-* Progress today
-* Challenges you faced
-* Tasks for tomorrow
+- Project you are working on (including link)
 
-...
+  - [Lottery Game 2.0](https://github.com/Bobj2018/Lottery-Game-2.0)
+
+- Progress today
+  - Today, I setup my project structure for the Lottery Game. It is using Redux to manage the global state.
+- Challenges you faced
+  - I had difficulty setting up redux but, I was able to fix it by installing the right packages.
+- Tasks for tomorrow
+  - Create the random number generator
+
+## Day 2
